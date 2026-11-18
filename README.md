@@ -1,7 +1,8 @@
 # 🎵 Tocador de Música com Arduino
 
 **Disciplina:** CCP020 — Circuitos e Sistemas Digitais  
-**Aluno:** Vinicius Alves de Souza | RA: 52.126.009-1  
+**Alunos:** Vinicius Alves de Souza | RA: 52.126.009-1 
+Heitor Dante Neves | RA: 52.126004-2
 **Instituição:** Centro Universitário FEI — Campus São Bernardo do Campo  
 **Data:** Novembro de 2026  
 
